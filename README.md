@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Eu sou o Vinicius Lopes
+- 🌱 Estou aprendendo desenvolvimento em front-end (HTML, CSS e Javascript), Back-end (Python e Java) e também I.A (deep learning, machine learning)
+- 👯 Estou procuando trabalhar em empresas de tecnologias para expandir meu conhecimento na área e ir adquirindo mais conhecimento, networking e visibilidade
+- 🤔 Ajudas em como seguir e melhorar na área, bem como dicas e conselhos são muito bem-vindos!
+- 📫 Contatos: (11) 948339991
+-Email: vinialopes27@gmail.com
+-Linkedin: https://www.linkedin.com/in/vinicius-almeida-lopes-4b391132a/
+-Instagram: https://www.instagram.com/vini.alopes/
+- 😄 Pronouns: Ele/Dele
 
-<!--
-**vinialopes/vinialopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+  
